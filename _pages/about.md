@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+William is a research scientist with Leidos, part of the Leidos Research Support Team supporting the DOE's National Energy Technology Laboratory (NETL ["N-E-T-L" not "nettle"]). His research interests range from fundamental research of multiphase flow instabilities using high-resolution CFD to the application of system codes for nuclear reactor thermal-hydraulics and safety analysis. His current focus is V&V of the developmental MFIX-Exa code and simulation-based optimization with Nodeworks. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+William earned his B.S., M.S., and Ph.D. from Purdue University, School of Nuclear Engineering in 2008, 2009 and 2014 under the supervision of Prof. Martín López de Bertodano. Before supporting NETL, William post-doc’ed under the supervision of Prof. Christine Hrenya at the University of Colorado Boulder, Department of Chemical and Biological Engineering.  
