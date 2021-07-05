@@ -62,39 +62,39 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/wdf40491341/"
+    - label: "Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=nHW8ze0AAAAJ&hl=en&oi=ao/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wfullmer/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://mfix.netl.doe.gov/gitlab/users/wfullmer/"
-    - label: "Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=nHW8ze0AAAAJ&hl=en&oi=ao"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagrm"
-      url: "https://instagram.com/"
-
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wdf40491341/"
+
+footer:
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=nHW8ze0AAAAJ&hl=en&oi=ao/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wfullmer/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       url: "https://mfix.netl.doe.gov/gitlab/users/wfullmer/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/wdf40491341/"
 
 defaults:
   # _posts
