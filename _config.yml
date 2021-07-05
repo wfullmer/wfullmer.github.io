@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "William D. Fullmer"
   avatar : "/assets/images/wdf.jpeg"
-  bio    : "Applied multiphase CFD."
+  bio    : "Applied multiphase CFD research scientist in Morgantown, WV."
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
